@@ -1,5 +1,5 @@
 <template>
-    <section class="main">
+    <!--<section class="main">
         <div class="crumbs">
             <el-breadcrumb separator="/">
                 <el-breadcrumb-item><i class="el-icon-rank"></i> 拖拽排序</el-breadcrumb-item>
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 </template>
 
 <script>
